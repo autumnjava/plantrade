@@ -2,7 +2,7 @@ import { useSearch } from "../../Contexts/SearchContext";
 import { useAuth } from "../../Contexts/AuthContext";
 import SearchForm from "../../Components/Search/SearchForm/SearchForm"
 import { imageIcons } from "./ImageIcons"
-import { Auction } from "../../Utils/types"
+import { Auction } from "../../Interfaces/Interfaces"
 import { IconImage } from "../../Utils/types"
 import Carousel from 'react-elastic-carousel';
 import {

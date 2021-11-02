@@ -1,9 +1,9 @@
 
-import Leaf from "./kategory_Images/BlackLeaf.png";
-import Flower from "./kategory_Images/BlackFlower.png";
-import Tree from "./kategory_Images/BlackTree.png";
-import Bush from "./kategory_Images/BlackBush.png";
-import Seed from "./kategory_Images/BlackSeed.png";
+import Leaf from "./Category_Images/BlackLeaf.png";
+import Flower from "./Category_Images/BlackFlower.png";
+import Tree from "./Category_Images/BlackTree.png";
+import Bush from "./Category_Images/BlackBush.png";
+import Seed from "./Category_Images/BlackSeed.png";
 
 export const imageIcons = [
    {
